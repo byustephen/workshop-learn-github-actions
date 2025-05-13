@@ -37,7 +37,8 @@ canonifyURL = true
   # Add a name or alias to this list as you go through the workshop.
   Authors = [
     "Stephen Godfrey",
-    "Darth Vader"
+    "Darth Vader",
+    "Chewbacca"
   ]
 
   # (Optional, default light) Sets color theme: light, dark or auto.
